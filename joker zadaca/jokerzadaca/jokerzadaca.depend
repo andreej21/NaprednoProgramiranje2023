@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681141010 source:c:\mainrepos\naprednoprogramiranje2023\joker zadaca\jokerzadaca\main.cpp
+	<bits/stdc++.h>
+	<ctime>
+	<cstdlib>
+
