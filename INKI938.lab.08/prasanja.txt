@@ -1,0 +1,12 @@
+1. Kako se vika glavnata programa vo C++?; a) void; b) main; c) int
+2. Kako se deklarira promenliva od celobroen tip vo C++?; a) int; b) bool; c) float
+3. Kako se vika bibliotekata so matematichki funkcii vo C++?; a) iostream; b) string.h; c) math.h
+4. Shto pretstavuva znakot && vo C++?; a) or; b) not; c) and
+5. Vo koja biblioteka spagja fukcijata sort vo C++?; a) iomanip; b) cstdlib; c) algorithm; d) fstream
+6. Shto znachi* pred imeto na promenlivata vo C++?; a) pointer; b) nema znachenje; c) enumeracija; d) mnozhenje
+7. Kako se definira matrica vo C++; a) [i][j]ime; b) ime[i][j]; c) ime[i,j]; d) ime[i]
+8. Kolku vrednosti moze da primi bool promenliva vo C++?; a) 1; b) 2; c) 3; d) 4
+9. Koi od slednive se granenja vo C++?; a) switch/case; b) while; c) if; d) for; e) do
+10. Koja e kratenkata za ispis na ekran vo C++?; a) cin; b) endl; c) cout; d) main; e) printf
+11. Koe od slednive deklaracii na promenlivi e tocno vo C++?; a) int 8i; b) int i=(8); c) int i; d) int i=3; e) int float
+12. Koi od slednive naredbi se naogjaat vo biliotekata time.h vo C++?; a) gmtime; b) divtime; c) globaltime; d) localtime;

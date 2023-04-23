@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1682283507 source:c:\mainrepos\naprednoprogramiranje2023\inki938.lab.08\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<ctime>
+	<string>
+
